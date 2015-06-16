@@ -1,0 +1,8 @@
+pod 'FBSDKCoreKit', '~> 4.2'
+pod 'FBSDKShareKit', '~> 4.2'
+pod 'FBSDKLoginKit', '~> 4.2'
+pod 'GoogleMaps'
+pod 'Google'
+pod 'GoogleSignIn'
+pod 'AFNetworking', '~> 2.5'
+pod 'Reachability', '~> 3.2'
